@@ -1,0 +1,11 @@
+pandas
+numpy
+transformers
+datasets
+accelerate
+deepspeed
+gdown
+evaluate
+torch
+torchvision 
+torchaudio
